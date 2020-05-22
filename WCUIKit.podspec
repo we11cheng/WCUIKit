@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WCUIKit"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "任意视图添加角标"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.homepage     = "https://github.com/dianziguan1234/WCUIKit"
+  s.homepage     = "https://github.com/we11cheng/WCUIKit"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/dianziguan1234/WCUIKit.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/we11cheng/WCUIKit.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
